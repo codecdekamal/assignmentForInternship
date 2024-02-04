@@ -1,0 +1,29 @@
+1.I have build this project using using tailwind 
+react express and jwt.
+
+2.frontend:
+
+javascript build tool : I have used vite here.
+I use axios to make api request from frontend to backened.
+also,I have stored the authentication token in 
+localStorage.I have also use toaster.
+
+3.Backened:
+I have used express in backened logic of api calling is 
+written in router file it is a small project.
+using jwt for building tokens.
+also the dotenv file for secrecy.
+
+5.How to start the project 
+frontend:
+1. npm install
+2. npm run dev
+backened
+1. npm install
+2. npm start
+
+
+
+
+
+
